@@ -7,8 +7,8 @@ $resta = $num1 - $num2;
 $multiplicacion = $num1 * $num2;
 $division = $num1 / $num2;
 
-echo "Suma ($num1 + $num2): " . $suma . PHP_EOL;
-echo "Resta ($num1 - $num2): " . $resta . PHP_EOL;
-echo "Multiplicación ($num1 * $num2): " . $multiplicacion . PHP_EOL;
-echo "División ($num1 / $num2): " . $division . PHP_EOL;
+echo "Suma ($num1 + $num2): " . $suma . "<br>";
+echo "Resta ($num1 - $num2): " . $resta . "<br>";
+echo "Multiplicación ($num1 * $num2): " . $multiplicacion . "<br>";
+echo "División ($num1 / $num2): " . $division . "<br>";
 ?>
